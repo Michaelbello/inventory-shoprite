@@ -9,3 +9,4 @@ C:\Users\MICHAEL\Desktop\inventory\obj\Debug\inventory.csproj.GenerateResource.c
 C:\Users\MICHAEL\Desktop\inventory\obj\Debug\inventory.csproj.CoreCompileInputs.cache
 C:\Users\MICHAEL\Desktop\inventory\obj\Debug\inventory.exe
 C:\Users\MICHAEL\Desktop\inventory\obj\Debug\inventory.pdb
+C:\Users\MICHAEL\Desktop\inventory\obj\Debug\inventory.Brown.resources
